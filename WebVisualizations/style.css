@@ -1,0 +1,13 @@
+.main-style{
+background-color:green !important;
+color:white !important;
+}
+.left-image{
+width:300px;
+height:300px;
+float:left;
+}
+.right-image{
+width:150px;
+height:150px;
+}
